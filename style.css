@@ -15,7 +15,7 @@ h1, h2{
 
 #landing {
 	/*viewport height - measured percentage of the height the device you are viewing your page*/
-	height: 75vh;
+	/*height: 95vh;*/
 
 	/*arranges elements inside the parent element, will allow us to layout our elements inside our landing section*/
 	display: flex;
@@ -30,7 +30,7 @@ h1, h2{
 	/*centering elements vertically*/
 	justify-content: center;
 
-	
+
 
 }
 
